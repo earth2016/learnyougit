@@ -1,3 +1,7 @@
 This is my repository. There are many like it, but this one is mine.
+<<<<<<< HEAD
 My repository is amazing.
+=======
+Whoops!
+>>>>>>> merge-lesson/conflicts-branch
 My repository is my best friend. It is my life. I must master it as I must master my life.
